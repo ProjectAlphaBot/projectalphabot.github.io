@@ -17,3 +17,13 @@ ol {
   font-family: 'Roboto', Helvetica, sans-serif;
   color: #3c4043;
 }
+
+body {
+  background-color: #181a1b 
+}
+
+html {
+  color-scheme: dark;
+  scrollbar-color: #454a4d, #202324;
+  color: #181a1b;
+}
