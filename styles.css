@@ -7,3 +7,10 @@ ol {
   font-family: 'Roboto', Helvetica, sans-serif;
   color: #3c4043;
 }
+
+body {
+  padding: 25px;
+  background-color: white;
+  color: black;
+  font-size: 25px;
+}
