@@ -19,11 +19,13 @@ ol {
 }
 
 body {
-  background-color: #181a1b 
+        padding: 25px;
+        background-color: black;
+        color: white;
+        font-size: 25px;
 }
 
-html {
-  color-scheme: dark;
-  scrollbar-color: #454a4d, #202324;
-  color: #181a1b;
+.light-mode {
+        background-color: white;
+        color: black;
 }
