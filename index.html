@@ -6,8 +6,14 @@
 </head>
 <body>
   <h1>Project Alpha</h1>
-</body>
-    <div>
+  <div>
       <button onclick="lightMode()">Lightmode</button>
-    </div>
+  </div>
+    <script>
+      function lightMode() {
+        var element = document.body;
+        element.classList.toggle("light-mode");
+      }
+    </script>
+</body>
 </html>
