@@ -1,2 +1,2 @@
 # projectalphabot.github.io
-yes
+no
